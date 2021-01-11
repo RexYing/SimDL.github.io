@@ -1,0 +1,36 @@
+# Site settings
+title: Graph Representation Learning and Beyond (GRL+)
+description: 'ICML 2020 Workshop'
+url: 'grlplus.github.io'
+baseurl: '' 
+
+author:
+  name: 'Andreea Deac'
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
