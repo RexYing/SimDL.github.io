@@ -4,17 +4,9 @@ title: Organizers
 permalink: /organizers/
 ---
 
-- [**Michael Bronstein**](https://www.imperial.ac.uk/people/m.bronstein), *Imperial College London/Twitter/USI Lugano*
-- [**Andreea Deac**](http://andreeadeac22.github.io), *Université de Montréal/Mila*
-- [**William L. Hamilton**](https://williamleif.github.io), *McGill University/Mila*
-- [**Jessica B. Hamrick**](http://www.jesshamrick.com/), *DeepMind*
-- [**Milad Hashemi**](https://hps.ece.utexas.edu/people/miladh/), *Google*
-- [**Stefanie Jegelka**](https://people.csail.mit.edu/stefje/), *Massachusetts Institute of Technology*
-- [**Jure Leskovec**](https://cs.stanford.edu/~jure/), *Stanford University/Pinterest*
-- [**Renjie Liao**](http://www.cs.toronto.edu/~rjliao/), *University of Toronto*
-- [**Federico Monti**](https://www.ics.usi.ch/index.php/people-detail-page/268-federico-monti), *Twitter/USI Lugano* 
-- [**Yizhou Sun**](http://web.cs.ucla.edu/~yzsun/), *University of California, Los Angeles*
-- [**Kevin Swersky**](http://www.cs.toronto.edu/~kswersky/), *Google Brain*
-- [**Petar Veličković**](https://petar-v.com/), *DeepMind*
 - [**Rex Ying**](https://cs.stanford.edu/people/rexy/), *Stanford University*
-- [**Marinka Žitnik**](https://dbmi.hms.harvard.edu/people/marinka-zitnik), *Harvard University* 
+- [**Tailin Wu**](https://tailin.org/), *Stanford University*
+- [**Peter Battaglia**](https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en), *DeepMind*
+- [**Rose Yu**](http://roseyu.com/), *UC San Diego*
+- [**Ryan Adams**](https://www.cs.princeton.edu/~rpa/), *Princeton University*
+- [**Jure Leskovec**](https://cs.stanford.edu/~jure/), *Stanford University*

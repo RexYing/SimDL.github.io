@@ -36,15 +36,15 @@ We encourage submissions that propose benchmarks and provide a standard evaluati
 The goal of this workshop is to encourage knowledge sharing and communication revolving around machine learning for simulation, across the variety of domains, and potentially create collaborations.
 
 ### References
-[1] P. Battaglia et al. Interaction networks for learning about objects, relations and physics. NeurIPS 2016. </br>
-[2] K. T. Schütt et al. Schnet: A continuous-filter convolutional neural network for modeling quantum interactions. NeurIPS 2017.</br>
-[3] A. Sanchez et al. Graph networks as learnable physics engines for inference and control. PMLR 2018.</br>
-[4] A. Sanchez et al. Learning to simulate complex physics with graph networks. ICML 2020.</br>
-[5] A Sneak Peek at 19 Science Simulations for the Summit Supercomputer in 2019 (from the Oak Ridge National Laboratory). </br>
-[6] S. He et al. Learning to predict the cosmological structure formation. Proceedings of the National Academy of Sciences 2019.</br>
-[7] V. Bapst et al. Unveiling the predictive power of static structure in glassy systems. Nature Physics 2020.</br>
-[8] Z. Long et al. PDE-Net 2.0: Learning PDEs from data with a numeric-symbolic hybrid deep network. Journal of Computational Physics 2019.</br>
-[9] R. Wang et al. Towards physics-informed deep learning for turbulent flow prediction. KDD 2020.</br>
-[10] A. Mohan et al. Embedding hard physical constraints in convolutional neural networks for 3D turbulence. ICLR 2020 Workshop.</br>
-[11] Y. Li et al. Learning compositional koopman operators for model-based control. ICLR 2020.</br>
+[1] P. Battaglia et al. Interaction networks for learning about objects, relations and physics. NeurIPS 2016. <br>
+[2] K. T. Schütt et al. Schnet: A continuous-filter convolutional neural network for modeling quantum interactions. NeurIPS 2017.<br>
+[3] A. Sanchez et al. Graph networks as learnable physics engines for inference and control. PMLR 2018.<br>
+[4] A. Sanchez et al. Learning to simulate complex physics with graph networks. ICML 2020.<br>
+[5] A Sneak Peek at 19 Science Simulations for the Summit Supercomputer in 2019 (from the Oak Ridge National Laboratory). <br>
+[6] S. He et al. Learning to predict the cosmological structure formation. Proceedings of the National Academy of Sciences 2019.<br>
+[7] V. Bapst et al. Unveiling the predictive power of static structure in glassy systems. Nature Physics 2020.<br>
+[8] Z. Long et al. PDE-Net 2.0: Learning PDEs from data with a numeric-symbolic hybrid deep network. Journal of Computational Physics 2019.<br>
+[9] R. Wang et al. Towards physics-informed deep learning for turbulent flow prediction. KDD 2020.<br>
+[10] A. Mohan et al. Embedding hard physical constraints in convolutional neural networks for 3D turbulence. ICLR 2020 Workshop.<br>
+[11] Y. Li et al. Learning compositional koopman operators for model-based control. ICLR 2020.<br>
 
