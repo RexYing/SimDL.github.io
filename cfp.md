@@ -15,7 +15,31 @@ The workshop will be held **virtually** due to risks and travel restrictions ass
 
 You may submit your paper through **CMT**, by following [this link](https://cmt3.research.microsoft.com/SimDL2021/).
 
-We encourage submissions related to learning simulation using deep learning. We will especially appreciate submissions that connect directly with the topics of the workshop, as well as papers that introduce interdisciplinary applications and benchmarks.
+We encourage submissions related to learning simulations using deep learning. The areas of simulation span areas in science and engineering. Here is a non-exhaustive list of areas of learning simulation:
+
+- Learning simulation for physics, including by not limited to simulations in particle physics, plasma physics, astrophysics, etc.
+    
+- Learning simulation in chemistry and biology
+
+- Learning PDEs, in areas including fluid dynamics, aerodynamics, and other engineering domains.
+
+- Learning simulation for materials
+    
+- Learning simulation in robotics
+
+- Learning simulation in graphics scenes
+
+We welcome submissions that address the following aspects of learning simulation:
+
+- Develop novel deep learning architectures and/or objective for learning simulation
+
+- Application of deep learning to one or more important simulation domains
+
+- Deep learning methods to speed up simulations
+
+- New benchmarks and/or evaluation metrics for learning simulation
+
+- Theoretical analysis of architectures and/or objectives.
 
 We will welcome original research papers of no more than 4 pages, not including references or supplementary materials. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings) that do not fit in the 4 pages. 
 
