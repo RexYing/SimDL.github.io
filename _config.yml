@@ -1,11 +1,11 @@
 # Site settings
-title: Graph Representation Learning and Beyond (GRL+)
-description: 'ICML 2020 Workshop'
+title: Deep Learning for Simulation (simDL)
+description: 'ICLR 2021 Workshop'
 url: 'grlplus.github.io'
 baseurl: '' 
 
 author:
-  name: 'Andreea Deac'
+  name: 'Rex Ying, Tailin Wu'
 
 defaults:
   -
