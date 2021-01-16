@@ -33,13 +33,13 @@ We welcome submissions that address the following aspects of learning simulation
 
 - Novel deep learning architectures and/or objectives for learning simulation
 
-- Application of deep learning to an important simulation domain
+- Application of deep learning to an important simulation domain, improving on previous methods
 
 - Deep learning methods to speed up simulations
 
 - New benchmarks and/or evaluation metrics for learning simulation
 
-- Theoretical analysis of architectures and/or objectives.
+- Theoretical understanding and analysis of architectures and/or objectives.
 
 We will welcome original research papers of no more than 4 pages, not including references or supplementary materials. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings) that do not fit in the 4 pages. 
 
