@@ -35,6 +35,9 @@ The workshop will consist of contributed talks, contributed posters, and invited
 We encourage submissions that propose benchmarks and provide a standard evaluation strategy for performance comparison between existing methods for learning simulation.
 The goal of this workshop is to encourage knowledge sharing and communication revolving around machine learning for simulation, across the variety of domains, and potentially create collaborations.
 
+Should you have any questions, please reach out to us via email:<br>
+[simdl2021@gmail.com](mailto:simdl2021@gmail.com)
+
 ### References
 [1] P. Battaglia et al. Interaction networks for learning about objects, relations and physics. NeurIPS 2016. <br>
 [2] K. T. Schütt et al. Schnet: A continuous-filter convolutional neural network for modeling quantum interactions. NeurIPS 2017.<br>

@@ -10,3 +10,6 @@ permalink: /organizers/
 - [**Rose Yu**](http://roseyu.com/), *UC San Diego*
 - [**Ryan Adams**](https://www.cs.princeton.edu/~rpa/), *Princeton University*
 - [**Jure Leskovec**](https://cs.stanford.edu/~jure/), *Stanford University*
+
+Should you have any questions, please reach out to us via email:<br>
+[simdl2021@gmail.com](mailto:simdl2021@gmail.com)

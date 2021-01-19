@@ -48,4 +48,4 @@ All accepted papers will be presented in the virtual poster session, with three 
 All submissions must use the [ICLR template](https://github.com/ICLR/Master-Template/raw/master/archive/iclr2021.zip). Submissions should be in `.pdf` format, and the review process is **double-blind**---therefore the papers should be appropriately anonymised. Previously published work (or under-review) is acceptable.
 
 Should you have any questions, please reach out to us via email:<br>
-[iclr-simdl-2021@googlegroups.com](mailto:iclr-simdl-2021@googlegroups.com)
+[simdl2021@gmail.com](mailto:simdl2021@gmail.com)
